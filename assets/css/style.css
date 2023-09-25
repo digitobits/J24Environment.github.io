@@ -956,7 +956,7 @@ section {
 }
 
 .clients .client-logo {
-  padding: 10%;
+  padding: 0px;
   display: flex;
   justify-content: center;
   align-items: center;
