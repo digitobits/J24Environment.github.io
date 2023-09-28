@@ -155,7 +155,7 @@ h6 {
   display: flex;
   list-style: none;
   align-items: center;
-  
+  margin-left: 290px;
 }
 
 .navbar li {
@@ -188,7 +188,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #04070a;
+  color: #3F88BF;
 }
 
 .navbar .dropdown ul {
@@ -590,7 +590,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #3F88BF;
+  background: #02e7dc;
   min-height: 40px;
   margin-top: 72px;
 }
@@ -956,7 +956,7 @@ section {
 }
 
 .clients .client-logo {
-  padding: 0px;
+  padding: 70px;
   display: flex;
   justify-content: center;
   align-items: center;
