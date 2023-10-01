@@ -121,7 +121,7 @@ h6 {
   display: inline-block;
   line-height: 0px;
   transition: 0.3s;
-  padding-left: 0px;
+  padding-left: 20px;
 }
 
 .header-social-links a i {
@@ -155,7 +155,7 @@ h6 {
   display: flex;
   list-style: none;
   align-items: center;
-  margin-left: 290px;
+  margin-left: 90px;
 }
 
 .navbar li {
