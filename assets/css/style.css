@@ -420,6 +420,18 @@ h6 {
   color: rgba(4, 4, 4, 0.7);
   
 }
+#hero .carousel-contents1 {
+  
+  padding: 20px;
+  color: #2dd6ec;
+  
+}
+#hero .carousel-contents2 {
+  
+  padding: 20px;
+  color: #ffff;
+  
+}
 
 #hero .carousel-content h2 {
   color: #fff;
