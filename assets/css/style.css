@@ -414,6 +414,12 @@ h6 {
   color: #fff;
   border-top: 5px solid #3F88BF;
 }
+#hero .carousel-contents {
+  
+  padding: 20px;
+  color: rgba(4, 4, 4, 0.7);
+  
+}
 
 #hero .carousel-content h2 {
   color: #fff;
